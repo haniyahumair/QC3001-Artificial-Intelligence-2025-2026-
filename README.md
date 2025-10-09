@@ -25,3 +25,5 @@ Each week includes **lecture-based exercises** and **Colab tutorials**, focusing
 📅 **Taught by:**  
 - Dr. Rami Hamdi  
 - Dr. Mohammad Naiseh
+
+University of Aberdeen - Doha
